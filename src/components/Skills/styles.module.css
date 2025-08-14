@@ -1,0 +1,73 @@
+.mt8 { margin-top: 2rem; }
+.grid { display: grid; }
+.gridCols4 { grid-template-columns: repeat(4, minmax(0, 1fr)); }
+.gap05 { gap: 0.125rem; }
+
+@media (min-width: 768px) {
+  .mdGridCols6 { grid-template-columns: repeat(6, minmax(0, 1fr)); }
+}
+
+@media (min-width: 1024px) {
+  .lgMt0 { margin-top: 0; }
+  .lgGridCols8 { grid-template-columns: repeat(8, minmax(0, 1fr)); }
+}
+
+.colSpan1 {
+  grid-column: span 1 / span 1;
+}
+  
+.flex {
+display: flex;
+}
+  
+.justifyCenter {
+  justify-content: center;
+}
+
+.py2 {
+  padding-top: 0.5rem;  /* 8px */
+  padding-bottom: 0.5rem;
+}
+
+.px2 {
+  padding-left: 0.5rem;  /* 8px */
+  padding-right: 0.5rem;
+}
+
+.textCenter {
+  text-align: center;
+}
+
+.inlineBlock {
+  display: inline-block;
+}
+
+.h10 {
+  height: 2.5rem; /* 40px */
+}
+
+.w10 {
+  width: 2.5rem; /* 40px */
+}
+
+.textDescription {
+  color: #6b7280; /* Example: Tailwind gray-500; adjust as needed */
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+.textXs {
+  font-size: 0.75rem;      /* 12px */
+  line-height: 1rem;       /* 16px */
+}
+
+.py2 {
+  padding-top: 0.5rem;     /* 8px */
+  padding-bottom: 0.5rem;
+}
+
+.fontSemibold {
+  font-weight: 600;
+}

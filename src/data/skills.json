@@ -1,0 +1,322 @@
+[
+    {
+      "name": "Apko",
+      "image": "img/skills/apko.png",
+      "href": "https://apko.dev/"
+    },
+    {
+      "name": "ArgoCD",
+      "image": "img/skills/argo.svg",
+      "href": "https://argoproj.github.io/cd/"
+    },
+    {
+      "name": "Argo workflow",
+      "image": "img/skills/argo-wf.png",
+      "href": "https://argoproj.github.io/workflows/"
+    },
+    {
+      "name": "Atlasgo",
+      "image": "img/skills/atlasgo.png",
+      "href": "https://atlasgo.io/"
+    },
+    {
+      "name": "Authentik",
+      "image": "img/skills/authentik.png",
+      "href": "https://goauthentik.io/"
+    },
+    {
+      "name": "Backstage",
+      "image": "img/skills/backstage.svg",
+      "href": "https://backstage.io/"
+    },
+    {
+      "name": "Cert-manager",
+      "image": "img/skills/cert-manager.svg",
+      "href": "https://cert-manager.io/"
+    },
+    {
+      "name": "Cloudnative-pg",
+      "image": "img/skills/cloudnative-pg.png",
+      "href": "https://cloudnative-pg.io/"
+    },
+    {
+      "name": "Crossplane",
+      "image": "img/skills/crossplane.svg",
+      "href": "https://www.crossplane.io/"
+    },
+    {
+      "name": "Dapr",
+      "image": "img/skills/dapr.png",
+      "href": "https://dapr.io/"
+    },
+    {
+      "name": "Dependency track",
+      "image": "img/skills/dependency-track.png",
+      "href": "https://dependencytrack.org/"
+    },
+    {
+      "name": "DevContainer",
+      "image": "img/skills/dev-containers.png",
+      "href": "https://containers.dev/"
+    },
+    {
+      "name": "Devfile",
+      "image": "img/skills/devfile.png",
+      "href": "https://devfile.io/"
+    },
+    {
+      "name": "Distribution",
+      "image": "img/skills/distribution.png",
+      "href": "https://distribution.github.io/distribution/"
+    },
+    {
+      "name": "Docusaurus",
+      "image": "img/skills/docusaurus.svg",
+      "href": "https://docusaurus.io/"
+    },
+    {
+      "name": "Docker",
+      "image": "img/skills/docker.svg",
+      "href": "https://www.docker.com/"
+    },
+    {
+      "name": "External-dns",
+      "image": "img/skills/external-dns.png",
+      "href": "https://kubernetes-sigs.github.io/external-dns/latest/"
+    },
+    {
+      "name": "External-secrets",
+      "image": "img/skills/external-secrets.png",
+      "href": "https://external-secrets.io/latest/"
+    },
+    {
+      "name": "Flux",
+      "image": "img/skills/flux.svg",
+      "href": "https://fluxcd.io/"
+    },
+    {
+      "name": "Gitea",
+      "image": "img/skills/gitea.svg",
+      "href": "https://gitea.com/"
+    },
+    {
+      "name": "Github-actions",
+      "image": "img/skills/github-actions.png",
+      "href": "https://github.com/"
+    },
+    {
+      "name": "Golang",
+      "image": "img/skills/golang.png",
+      "href": "https://go.dev/"
+    },
+    {
+      "name": "Goldilocks",
+      "image": "img/skills/goldilocks.png",
+      "href": "https://goldilocks.docs.fairwinds.com/"
+    },
+    {
+      "name": "Go-releaser",
+      "image": "img/skills/go-releaser.png",
+      "href": "https://goreleaser.com/"
+    },
+    {
+      "name": "Helm",
+      "image": "img/skills/Helm.svg",
+      "href": "https://helm.sh/"
+    },
+    {
+      "name": "Inspektor-gadget",
+      "image": "img/skills/inspektor-gadget.png",
+      "href": "https://inspektor-gadget.io/"
+    },
+    {
+      "name": "Istio",
+      "image": "img/skills/istio.png",
+      "href": "https://istio.io/"
+    },
+    {
+      "name": "Jenkins",
+      "image": "img/skills/Jenkins.svg",
+      "href": "https://www.jenkins.io/"
+    },
+    {
+      "name": "K3s",
+      "image": "img/skills/k3s.svg",
+      "href": "https://k3s.io/"
+    },
+    {
+      "name": "Kamaji",
+      "image": "img/skills/kamaji.png",
+      "href": "https://kamaji.clastix.io/"
+    },
+    {
+      "name": "Kaniko",
+      "image": "img/skills/kaniko.png",
+      "href": "https://github.com/chainguard-dev/kaniko"
+    },
+    {
+      "name": "Kargo",
+      "image": "img/skills/kargo.png",
+      "href": "https://kargo.io/"
+    },
+    {
+      "name": "Keda",
+      "image": "img/skills/keda.png",
+      "href": "https://keda.sh/"
+    },
+    {
+      "name": "Keptn",
+      "image": "img/skills/keptn.png",
+      "href": "https://keptn.sh/"
+    },
+    {
+      "name": "Ko",
+      "image": "img/skills/ko.png",
+      "href": "https://ko.build/"
+    },
+    {
+      "name": "Kubernetes",
+      "image": "img/skills/kubernetes.svg",
+      "href": "https://kubernetes.io/"
+    },
+    {
+      "name": "Kube-vip",
+      "image": "img/skills/kube-vip.png",
+      "href": "https://kube-vip.io/"
+    },
+    {
+      "name": "Kubevirt",
+      "image": "img/skills/kubevirt.png",
+      "href": "https://kubevirt.io/"
+    },
+    {
+      "name": "Kustomize",
+      "image": "img/skills/kustomize.png",
+      "href": "https://kustomize.io/"
+    },
+    {
+      "name": "Kyverno",
+      "image": "img/skills/kyverno.png",
+      "href": "https://kyverno.io/"
+    },
+    {
+      "name": "Litmus-chaos",
+      "image": "img/skills/litmus-chaos.png",
+      "href": "https://litmuschaos.io/"
+    },
+    {
+      "name": "Localstack",
+      "image": "img/skills/localstack.png",
+      "href": "https://www.localstack.cloud/"
+    },
+    {
+      "name": "Longhorn",
+      "image": "img/skills/longhorn.png",
+      "href": "https://longhorn.io/"
+    },
+    {
+      "name": "Metal-lb",
+      "image": "img/skills/metal-lb.png",
+      "href": "https://metallb.io/"
+    },
+    {
+      "name": "Minio",
+      "image": "img/skills/minio.svg",
+      "href": "https://www.min.io/"
+    },
+    {
+      "name": "Netbird",
+      "image": "img/skills/netbird.png",
+      "href": "https://netbird.io/"
+    },
+    {
+      "name": "Nginx",
+      "image": "img/skills/nginx.svg",
+      "href": "https://kubernetes.github.io/ingress-nginx"
+    },
+    {
+      "name": "Open-appsec",
+      "image": "img/skills/open-appsec.png",
+      "href": "https://www.openappsec.io/"
+    },
+    {
+      "name": "Openfaas",
+      "image": "img/skills/openfaas.png",
+      "href": "https://www.openfaas.com/"
+    },
+    {
+      "name": "Python",
+      "image": "img/skills/python.png",
+      "href": "https://www.python.org/"
+    },
+    {
+      "name": "Sentry",
+      "image": "img/skills/sentry.svg",
+      "href": "https://sentry.io/"
+    },
+    {
+      "name": "Shell-operator",
+      "image": "img/skills/shell-operator.png",
+      "href": "https://flant.github.io/shell-operator/"
+    },
+    {
+      "name": "Signadot",
+      "image": "img/skills/signadot.png",
+      "href": "https://signadot.com/"
+    },
+    {
+      "name": "Skaffold",
+      "image": "img/skills/skaffold.png",
+      "href": "https://skaffold.dev/"
+    },
+    {
+      "name": "SonarQube",
+      "image": "img/skills/sonarqube.png",
+      "href": "https://www.sonarsource.com/products/sonarqube/"
+    },
+    {
+      "name": "Spinnaker",
+      "image": "img/skills/spinnaker.png",
+      "href": "https://spinnaker.io/"
+    },
+    {
+      "name": "Step-ca",
+      "image": "img/skills/step-ca.png",
+      "href": "https://smallstep.com/"
+    },
+    {
+      "name": "Sveltos",
+      "image": "img/skills/sveltos.png",
+      "href": "https://projectsveltos.github.io/sveltos"
+    },
+    {
+      "name": "Syft",
+      "image": "img/skills/syft.png",
+      "href": "https://github.com/anchore/syft"
+    },
+    {
+      "name": "Technitium",
+      "image": "img/skills/technitium.png",
+      "href": "https://technitium.com/"
+    },
+    {
+      "name": "Terraform",
+      "image": "img/skills/terraform.svg",
+      "href": "https://terraform.io/"
+    },
+    {
+      "name": "Trivy",
+      "image": "img/skills/trivy.png",
+      "href": "https://trivy.dev/latest/"
+    },
+    {
+      "name": "Vault",
+      "image": "img/skills/vault.png",
+      "href": "https://developer.hashicorp.com/vault/"
+    },
+    {
+      "name": "Vcluster",
+      "image": "img/skills/vcluster.png",
+      "href": "https://www.vcluster.com/"
+    }
+]

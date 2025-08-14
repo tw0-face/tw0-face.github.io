@@ -1,0 +1,116 @@
+/**
+ * CSS files with the .module.css suffix will be treated as CSS modules
+ * and scoped locally.
+ */
+
+.heroBanner {
+  padding: 4rem 0;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+
+@media screen and (max-width: 996px) {
+  .heroBanner {
+    padding: 2rem;
+  }
+}
+
+.buttons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.parent {
+display: grid;
+grid-template-columns: repeat(3, 1fr);
+grid-template-rows: 1fr;
+grid-column-gap: 20px;
+grid-row-gap: 0px;
+}
+
+.certifications__container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr; 
+  gap: 8%;
+  margin: auto;
+  place-items: top;
+  #border: 1px solid red;
+}
+
+.certifications__item {
+  background: var(--color-secondary);
+  padding: 1.3rem;
+  border-radius: 2rem;
+  border: 1px solid transparent;
+  transition: var(--transition);
+  #position: relative;
+}
+
+.certifications__item:hover {
+  background: transparent;
+  border-color: var(--color-white);
+  transform: scale(1.1);
+}
+
+.certifications__item h3 {
+  text-align: center;
+  margin: 2rem 0 0rem;
+}
+
+/* === MEDIA QUERIES */
+@media screen and (max-width: 1024px) {
+  .certifications__container {
+    grid-template-columns: 1fr 1fr 1fr; 
+    width: var(--container-width-lg);
+    #gap: 1rem;
+  }
+
+  .certifications__item h3 {
+    font-size: 0.9rem;
+    margin: 0.4rem 0rem 0rem 0rem;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .certifications__container {
+    grid-template-columns: 1fr 1fr; 
+    gap: 1rem;
+  }
+}
+
+.container {
+  width: var(--container-width-lg);
+  marigin: 0 auto;
+}
+
+@media screen and (max-width: 1024px) {
+  .container {
+    width: var(--container-width-md);
+  }
+
+  section {
+    margin-top: 4rem;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .container {
+    width: var(--container-width-sm);
+  }
+
+  section > h2 {
+    marigin-bottom: 2rem;
+  }
+}
+
+img {
+  display: block;
+  width: 100%;
+  object-fit: cover;
+}
+
+.rounded {
+    border-radius: 9999px;
+}

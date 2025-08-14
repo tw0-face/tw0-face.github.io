@@ -1,0 +1,76 @@
+
+/* === Individual Item Cards === */
+.card {
+  margin: 0 0.5rem; /* mx-2 */
+  height: 100%;
+  width: 12rem; /* w-48 */
+}
+
+@media (min-width: 768px) {
+  .card {
+    width: 24rem; /* md:w-96 */
+  }
+}
+
+.cardLink {
+  display: flex;
+  flex-direction: column;
+  text-decoration: none;
+}
+
+.cardLink:hover {
+  text-decoration: none; /* hover:no-underline */
+}
+
+/* === Image Styling === */
+.image {
+  width: 100%;
+  height: 120px;
+  object-fit: cover;
+  border-radius: 0.5rem; /* rounded-lg */
+}
+
+@media (min-width: 768px) {
+  .image {
+    height: 240px; /* md:h-[240px] */
+  }
+}
+
+/* === Text Block Under Image === */
+.textBlock {
+  width: 100%;
+  padding: 0.5rem 0; /* py-2 */
+  text-align: center;
+}
+
+.title {
+  margin: 0;
+  font-size: 1.25rem; /* text-xl */
+  font-weight: normal;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis; /* truncate */
+}
+/* sliderContainer */
+.sliderContainer {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 260px;
+  overflow: hidden;
+  #margin-left: 0.5rem;
+  #margin-right: 0.5rem;
+  #padding-left: 10rem;
+  #padding-right: 10rem;
+}
+
+/* section stays for padding/margins only */
+.section {
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  margin-left: auto;
+  margin-right: auto;
+  #padding-left: 10rem;
+  #padding-right: 10rem;
+}

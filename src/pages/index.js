@@ -83,7 +83,7 @@ export default function Home() {
       title={`${siteConfig.title}`}
       description={`${siteConfig.title}`}>
       <HomepageHeader />
-      <main>;
+      <main>
         <Container background={'light'} padding={['top', 'bottom']} className="">
           <Certifications />
         </Container>

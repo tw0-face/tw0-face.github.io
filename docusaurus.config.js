@@ -72,6 +72,7 @@ const config = {
     //     DSN: 'http://c7ba860442034a0081e225df685b08e1@localhost:8000/1',
     //   },
     // ],
+    'docusaurus-plugin-goatcounter',
   ],
 
   themeConfig:
@@ -105,6 +106,9 @@ const config = {
       prism: {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
+      },
+      goatcounter: {
+        code: 'two-face',
       },
     }),
 };

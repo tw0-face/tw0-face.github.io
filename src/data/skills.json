@@ -6,7 +6,7 @@
     },
     {
       "name": "ArgoCD",
-      "image": "img/skills/argo.svg",
+      "image": "img/skills/argo.png",
       "href": "https://argoproj.github.io/cd/"
     },
     {
@@ -26,12 +26,12 @@
     },
     {
       "name": "Backstage",
-      "image": "img/skills/backstage.svg",
+      "image": "img/skills/backstage.png",
       "href": "https://backstage.io/"
     },
     {
       "name": "Cert-manager",
-      "image": "img/skills/cert-manager.svg",
+      "image": "img/skills/cert-manager.png",
       "href": "https://cert-manager.io/"
     },
     {
@@ -41,7 +41,7 @@
     },
     {
       "name": "Crossplane",
-      "image": "img/skills/crossplane.svg",
+      "image": "img/skills/crossplane.png",
       "href": "https://www.crossplane.io/"
     },
     {
@@ -71,12 +71,12 @@
     },
     {
       "name": "Docusaurus",
-      "image": "img/skills/docusaurus.svg",
+      "image": "img/skills/docusaurus.png",
       "href": "https://docusaurus.io/"
     },
     {
       "name": "Docker",
-      "image": "img/skills/docker.svg",
+      "image": "img/skills/docker.png",
       "href": "https://www.docker.com/"
     },
     {
@@ -91,12 +91,12 @@
     },
     {
       "name": "Flux",
-      "image": "img/skills/flux.svg",
+      "image": "img/skills/flux.png",
       "href": "https://fluxcd.io/"
     },
     {
       "name": "Gitea",
-      "image": "img/skills/gitea.svg",
+      "image": "img/skills/gitea.png",
       "href": "https://gitea.com/"
     },
     {
@@ -121,7 +121,7 @@
     },
     {
       "name": "Helm",
-      "image": "img/skills/Helm.svg",
+      "image": "img/skills/Helm.png",
       "href": "https://helm.sh/"
     },
     {
@@ -136,12 +136,12 @@
     },
     {
       "name": "Jenkins",
-      "image": "img/skills/Jenkins.svg",
+      "image": "img/skills/Jenkins.png",
       "href": "https://www.jenkins.io/"
     },
     {
       "name": "K3s",
-      "image": "img/skills/k3s.svg",
+      "image": "img/skills/k3s.png",
       "href": "https://k3s.io/"
     },
     {
@@ -176,7 +176,7 @@
     },
     {
       "name": "Kubernetes",
-      "image": "img/skills/kubernetes.svg",
+      "image": "img/skills/kubernetes.png",
       "href": "https://kubernetes.io/"
     },
     {
@@ -221,7 +221,7 @@
     },
     {
       "name": "Minio",
-      "image": "img/skills/minio.svg",
+      "image": "img/skills/minio.png",
       "href": "https://www.min.io/"
     },
     {
@@ -231,7 +231,7 @@
     },
     {
       "name": "Nginx",
-      "image": "img/skills/nginx.svg",
+      "image": "img/skills/nginx.png",
       "href": "https://kubernetes.github.io/ingress-nginx"
     },
     {
@@ -251,7 +251,7 @@
     },
     {
       "name": "Sentry",
-      "image": "img/skills/sentry.svg",
+      "image": "img/skills/sentry.png",
       "href": "https://sentry.io/"
     },
     {
@@ -301,7 +301,7 @@
     },
     {
       "name": "Terraform",
-      "image": "img/skills/terraform.svg",
+      "image": "img/skills/terraform.png",
       "href": "https://terraform.io/"
     },
     {
